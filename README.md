@@ -1,6 +1,6 @@
 <h1 align="center">📈  Manage  📊</h1>
 
-<p align="center">Software to plan day to day tasks, project.</p>
+<p align="center">Software to plan day to day tasks and projects.</p>
 <img src="./_resource/manage.png">
 
 
